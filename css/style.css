@@ -142,6 +142,7 @@
         width: 100%;
         height: 100vh;
         transform: translateY(2000px);
+        height: calc(100% - 35px);
     }
 
     .messag3 .smile {
